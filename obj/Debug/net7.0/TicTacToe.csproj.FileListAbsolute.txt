@@ -1,0 +1,15 @@
+/Users/benkeston/Downloads/TicTacToe/obj/Debug/net7.0/TicTacToe.csproj.AssemblyReference.cache
+/Users/benkeston/Downloads/TicTacToe/obj/Debug/net7.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benkeston/Downloads/TicTacToe/obj/Debug/net7.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/benkeston/Downloads/TicTacToe/obj/Debug/net7.0/TicTacToe.AssemblyInfo.cs
+/Users/benkeston/Downloads/TicTacToe/obj/Debug/net7.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/benkeston/Downloads/TicTacToe/bin/Debug/net7.0/TicTacToe
+/Users/benkeston/Downloads/TicTacToe/bin/Debug/net7.0/TicTacToe.deps.json
+/Users/benkeston/Downloads/TicTacToe/bin/Debug/net7.0/TicTacToe.runtimeconfig.json
+/Users/benkeston/Downloads/TicTacToe/bin/Debug/net7.0/TicTacToe.dll
+/Users/benkeston/Downloads/TicTacToe/bin/Debug/net7.0/TicTacToe.pdb
+/Users/benkeston/Downloads/TicTacToe/obj/Debug/net7.0/TicTacToe.dll
+/Users/benkeston/Downloads/TicTacToe/obj/Debug/net7.0/refint/TicTacToe.dll
+/Users/benkeston/Downloads/TicTacToe/obj/Debug/net7.0/TicTacToe.pdb
+/Users/benkeston/Downloads/TicTacToe/obj/Debug/net7.0/TicTacToe.genruntimeconfig.cache
+/Users/benkeston/Downloads/TicTacToe/obj/Debug/net7.0/ref/TicTacToe.dll
